@@ -32,6 +32,6 @@ Mission & Vision :
 
 -To provide a helping hand to the farmers and farm labourers in improving their lives through the medium of technology, thereby, improving the Agricultural Sector in the Indian Economy.
 
-Front-end: PHP
+Front-end: PHP (not sure - see ppt)
 
 Back-end: MySQL
