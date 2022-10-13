@@ -1,12 +1,13 @@
 # Krish-e Suvidha
+--Website & APP 
+
 1. Crop Recommendation 
 
 2. Crop Disease Detection
 
 3. Online Farmers Store
 -----------------------------------------------------
-Website -
-APP -
+
 -----------------------------------------------------
 1. Crop Recommendation -->>
 
