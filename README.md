@@ -1,5 +1,5 @@
 # Krish-e Suvidha
---Website : store, crop recom, img folder upload- count of healthy & diseased, count of ayurvedic medicinal leaves in each hectare of land
+--Website :(3 languages) farmer store, crop recom, img folder upload- count of healthy & diseased, count of ayurvedic medicinal leaves in each hectare of land
 
 --APP : Only for single image prediction
 
