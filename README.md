@@ -1,4 +1,4 @@
-# Krish-e-Suvidha
+# Krish-e Suvidha
 1. Crop Recommendation 
 
 2. Crop Disease Detection
