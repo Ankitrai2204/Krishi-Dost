@@ -5,7 +5,8 @@
 
 1. Crop Recommendation 
 
-2. Crop Disease Detection
+2. Crop Disease Detection(name of disease and it's cure (recommend fertilizer and external link to our e-store))
++ medicinal plant detection(tell the therapeutic value of the plant and ways to use it in the diet.)
 
 3. Online Farmers Store
 -----------------------------------------------------
