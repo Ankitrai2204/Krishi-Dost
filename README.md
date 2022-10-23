@@ -9,6 +9,7 @@
 + medicinal plant detection(tell the therapeutic value of the plant and ways to use it in the diet.)
 
 3. Online Farmers Store
++ chatbot for all(farmers & customers)
 -----------------------------------------------------
 
 -----------------------------------------------------
