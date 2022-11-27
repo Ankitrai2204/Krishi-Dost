@@ -6,10 +6,10 @@
 1. Crop Recommendation 
 
 2. Crop Disease Detection(name of disease and it's cure (recommend fertilizer and external link to our e-store))
-+ medicinal plant detection(tell the therapeutic value of the plant and ways to use it in the diet.)
+Future Scope =+ medicinal plant detection(tell the therapeutic value of the plant and ways to use it in the diet.)
 
 3. Online Farmers Store
-+ chatbot for all(farmers & customers)
+Future Scope =+ chatbot for all(farmers & customers)
 -----------------------------------------------------
 
 -----------------------------------------------------
@@ -33,6 +33,6 @@ Mission & Vision :
 
 -To provide a helping hand to the farmers and farm labourers in improving their lives through the medium of technology, thereby, improving the Agricultural Sector in the Indian Economy.
 
-Front-end: PHP (not sure - see ppt)
+Front-end: PHP 
 
 Back-end: MySQL
