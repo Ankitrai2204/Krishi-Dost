@@ -71,7 +71,7 @@ Mission & Vision :
 Front-end: PHP 
 Back-end: MySQL
 
-Description
+##Description
 -----------------------------------------------------
 As we all are familiar with the fact that thousands of farmers die every year. Activists and scholars have offered no. of conflicting reasons such as high debt burdens, corruption in subsidies, failing to detect crop disease timely resulting in crop failure which leads to mental health issues. 
 Major problem faced by the problem are: 
