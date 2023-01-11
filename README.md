@@ -141,7 +141,7 @@ Our app is so much user friendly and easy to use.
 
 Farmers just need to click pic of the leaf or select from gallery and our app will tell you the disease and also the best treatment.
 
-##Obstacles faced by us:
+## Obstacles faced by us:
 
 In this case, the target audience of families, farmers, and environmentalists, this project was created with their accessibility and ease of use in mind. As a result, it was crucial to include as many features as possible that would be truly helpful to both novice and expert users. These features include allowing users to access the service and the assistance they require in the format and language that is most convenient for them, as well as enabling them to connect with and receive assistance from local or specialised experts who can advise them on the best course of action for a fee.
 
@@ -149,7 +149,7 @@ The integration of all the features into a single service while maintaining cons
 
 To solve these obstacles, pair programming was used, where one member modified the code while the other member continuously checked for consistency and syntactical correctness, allowing for effective building.
 
-#FUTURE ASPECT: 
+# FUTURE ASPECT: 
 
 1)Sensor technology can be used to assess the product’s quality and make it cost effective. 
 
