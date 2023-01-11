@@ -39,7 +39,7 @@ Supported crops
 - Raspberry
 
 1. Crop Recommendation 
-
+   ++ Rainfall Prediction
 2. Crop Disease Detection(name of disease and it's cure (recommend fertilizer and external link to our e-store))
 Future Scope =+ medicinal plant detection(tell the therapeutic value of the plant and ways to use it in the diet.)
 
@@ -55,7 +55,7 @@ Temperature
 Rainfall
 etc pr model train
 
-
+++ Rainfall Prediction
 -----------------------------------------------------
 2. Crop Disease Detection -->>
 APP and in website too
